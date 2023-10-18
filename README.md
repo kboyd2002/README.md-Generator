@@ -36,4 +36,15 @@ If you have any questions, feel free to reach out to me:
 
 This project is licensed under the [License: MIT](https://opensource.org/licenses/MIT) license.
 
+## Credits 
+https://nodejs.org/en/docs
+
+
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba --- where i got license badges and links
+
+
+https://www.npmjs.com/
+
+
+https://github.com/SBoudrias/Inquirer.js --- inquirer for the questions
  
