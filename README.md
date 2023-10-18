@@ -1,4 +1,10 @@
 # README.MD Generator
+## Walk through
+
+
+https://github.com/kboyd2002/README.md-Generator/assets/145223393/e35d3145-7148-4943-b495-6eba461c815a
+
+
 
 ## Description
 This program works with node, and has 7 inputs so you can easily make a README for your project without having to spend so much time typing out all the basics. it does it for you! 
